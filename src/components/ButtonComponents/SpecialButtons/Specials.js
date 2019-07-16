@@ -1,4 +1,5 @@
 import React from "react";
+import Specials from "./SpecialButton";
 
 //import any components needed
 
@@ -14,4 +15,6 @@ const Specials = () => {
        it any props needed by the child component*/}
     </div>
   );
-};
+}; 
+
+export default Specials ;

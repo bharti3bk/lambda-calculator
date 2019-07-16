@@ -1,4 +1,5 @@
-import React from "react";
+import React from "react"; 
+import Operators from "./OperatorButton";
 
 //import any components needed
 
@@ -13,4 +14,6 @@ const Operators = () => {
        it any props needed by the child component*/}
     </div>
   );
-};
+};  
+
+export default Operators;
