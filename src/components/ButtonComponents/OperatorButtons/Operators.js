@@ -1,5 +1,5 @@
 import React from "react"; 
-import Operators from "./OperatorButton";
+import OperatorButton from "./OperatorButton";
 
 //import any components needed
 

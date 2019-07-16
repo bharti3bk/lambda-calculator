@@ -1,9 +1,10 @@
 import React from "react";
-import Numbers from "./NumberButton";
+import NumberButton from "./NumberButton";
+import {numbers}  from '../../../data'
 
 
 
-
+console.log(numbers);
 //import any components needed 
 
 //Import your array data to from the provided data file
